@@ -1,0 +1,13 @@
+{
+    "emmet.preferences": {
+
+    },
+    "editor.dropIntoEditor.preferences": [
+
+    ],
+    "files.exclude": {
+        "**/.git": false
+    }
+}
+
+
