@@ -1,0 +1,1 @@
+<h1>This is script.js file</h1>
