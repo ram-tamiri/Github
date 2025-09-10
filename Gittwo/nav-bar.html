@@ -14,3 +14,15 @@
     <li><button id="openDialog">Open Dialog</button></li>
     <li><a href="#">Help</a></li>
   </ul>
+  <footer>
+    <p>&copy; 2024 Your Company. All rights reserved.</p>
+  </footer>
+</nav>
+<script>
+  document.getElementById('openDialog').addEventListener('click', function() {
+    document.getElementById('myDialog').showModal();
+  });
+
+  document.getElementById('closeDialog').addEventListener('click', function() {
+    document.getElementById('myDialog').close();
+  });
