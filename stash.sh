@@ -33,3 +33,6 @@ passwd "$username"
 
 # Confirm completion
 echo "User '$username' is ready to use."
+
+echo "Script completed."
+# End of script
