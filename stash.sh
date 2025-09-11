@@ -37,3 +37,5 @@ echo "User '$username' is ready to use."
 echo "Script completed."
 # End of script
 # Save this script as stash.sh and run it with sudo or as root.
+# Example: sudo bash stash.sh
+# Make sure to give execute permission: chmod +x stash.sh
