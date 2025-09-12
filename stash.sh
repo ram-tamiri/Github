@@ -41,3 +41,4 @@ echo "Script completed."
 # Make sure to give execute permission: chmod +x stash.sh
 # Note: This script is intended for educational purposes. Use with caution on production systems.
 # Always review and understand scripts before executing them, especially with elevated privileges.Í
+# Always back up important data before making system changes.
