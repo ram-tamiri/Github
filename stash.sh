@@ -39,3 +39,4 @@ echo "Script completed."
 # Save this script as stash.sh and run it with sudo or as root.
 # Example: sudo bash stash.sh
 # Make sure to give execute permission: chmod +x stash.sh
+# Note: This script is intended for educational purposes. Use with caution on production systems.
